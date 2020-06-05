@@ -9,4 +9,4 @@ Open browser
 Type in local host:1990
 Use app to write and save and delete notes.
 
-<iframe src="https://player.vimeo.com/video/426086226" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
